@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "dac54548138573fb24c129a2be591d9387d626795c9c4027ec8dc09365d1e8be"
+    }
+  ],
+  "containerPath" : "/Users/Shared/разработка/само приложение/MyPlaces/MyPlaces.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/Shared/разработка/само приложение/MyPlaces/DerivedData/MyPlaces/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
